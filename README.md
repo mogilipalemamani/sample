@@ -1,2 +1,2 @@
 # sample
-sample-repository
+this is only for sample-repository
